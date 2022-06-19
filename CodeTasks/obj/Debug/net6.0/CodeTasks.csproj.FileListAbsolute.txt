@@ -1,0 +1,15 @@
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.exe
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.deps.json
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.runtimeconfig.json
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.dll
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\bin\Debug\net6.0\CodeTasks.pdb
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.csproj.AssemblyReference.cache
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.AssemblyInfoInputs.cache
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.AssemblyInfo.cs
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.csproj.CoreCompileInputs.cache
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.dll
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\refint\CodeTasks.dll
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.pdb
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\CodeTasks.genruntimeconfig.cache
+C:\Users\ESQIN\Desktop\C#\CodeTasks\CodeTasks\obj\Debug\net6.0\ref\CodeTasks.dll
